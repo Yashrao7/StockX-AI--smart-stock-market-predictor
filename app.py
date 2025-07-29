@@ -11,8 +11,6 @@ Original file is located at
 
 
 
-# Commented out IPython magic to ensure Python compatibility.
-# %%writefile app.py
 # import numpy as np
 # import pandas as pd
 # import yfinance as yf
@@ -32,7 +30,7 @@ Original file is located at
 # import os
 # 
 # # Get full path to the model file
-# MODEL_PATH = os.path.join(os.path.dirname("C:\Users\91931\OneDrive\Desktop\stock\Stock Predictions Model.keras"), 'Stock Predictions Model.keras')
+# MODEL_PATH = os.path.join(os.path.dirname("stock Prediction Model.keras"), 'Stock Predictions Model.keras')
 # model = load_model(MODEL_PATH, compile=False)
 # 
 # 
