@@ -176,5 +176,5 @@ Original file is located at
 #         plt.legend()
 #         st.pyplot(fig4)
 
-from google.colab import files
+
 uploaded = files.upload()
