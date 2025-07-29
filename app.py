@@ -27,7 +27,7 @@ MODEL_PATH = os.path.join(os.path.dirname("Stock Prediction Model.keras"), 'Stoc
 model = load_model(
     MODEL_PATH,
     custom_objects={"InputLayer": InputLayer},
-    compile=False
+    compile=False)
     st.success("✅ Model loaded successfully!")
 
 
