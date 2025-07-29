@@ -177,4 +177,4 @@ Original file is located at
 #         st.pyplot(fig4)
 
 
-uploaded = files.upload()
+
