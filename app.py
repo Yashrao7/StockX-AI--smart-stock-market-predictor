@@ -23,8 +23,12 @@ st.set_page_config(page_title="Stock Market Predictor", layout="wide")
 import os
 
 # Get full path to the model file
-MODEL_PATH = os.path.join(os.path.dirname("stock Prediction Model.keras"), 'Stock Predictions Model.keras')
-model = load_model(MODEL_PATH, compile=False)
+MODEL_PATH = os.path.join(os.path.dirname("Stock Prediction Model.keras"), 'Stock Predictions Model.keras')
+model = load_model(
+    MODEL_PATH,
+    custom_objects={"InputLayer": InputLayer},
+    compile=False
+    st.success("✅ Model loaded successfully!")
 
 
 st.markdown("""
