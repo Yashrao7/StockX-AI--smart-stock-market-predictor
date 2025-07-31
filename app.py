@@ -141,8 +141,9 @@ with tab3:
     predict = model.predict(x)
 
     # ✅ Inverse transform to original price range
-    predict = scaler.inverse_transform(predict)
-    y = scaler.inverse_transform(y.reshape(-1, 1))
+   predict = scaler.inverse_transform(predict)
+    y = np.array(y).reshape(-1, 1)
+    y = scaler.inverse_transform(y)
 
     next_day_prediction = predict[-1][0]
     st.success(f"Predicted closing price for next day: ${next_day_prediction:.2f}")
