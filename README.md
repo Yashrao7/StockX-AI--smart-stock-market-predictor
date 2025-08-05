@@ -5,12 +5,12 @@
 
 
 ## 🎥 Demo Preview
+MA--> https://drive.google.com/file/d/1vP5HFN8jBzvP8HYQmBMEwgEOtaTo_ex6/view?usp=sharing
+Indicators --> https://drive.google.com/file/d/1rTtuGLmlbDFcfPfpXqcl3rtkVTqvFdjf/view?usp=sharing
+Prediction --> https://drive.google.com/file/d/1IoznqKGHkYxytWyPPnJMQRpGvXASTiHp/view?usp=sharing
 
-MA.pdf<img src="assets/screenshot-indicators.png" width="100%"/>
-<img src="assets/screenshot-prediction.png" width="100%"/>
-
-🖥️ **Full screen recording** available in the repository:  
-📂 `Screen Recording 2025-08-05 183825.mp4`
+🖥️ **screen recording** 
+📂 https://drive.google.com/file/d/1-I_LfmYrw9-WQHm5734QHSIFEoUVcXf7/view?usp=sharing
 
 ---
 
