@@ -124,12 +124,12 @@ Ensure the following Python packages are installed:
 
 ## Author
 
-**Mohammad Saqlain**
+**Yash Yadav**
 B.Tech in Artificial Intelligence & Data Science
 Specialized in predictive modeling, machine learning, and financial data analysis
 
-* 📧 Email: [saqlain.engineer7@gmail.com](mailto:saqlain.engineer7@gmail.com)
-* 🔗 LinkedIn: [linkedin.com/in/saqlain3](https://linkedin.com/in/saqlain)
+* 📧 Email: Yashydv9313@gmail.com
+* 🔗 LinkedIn:https://www.linkedin.com/in/yash-yadav7/
 
 
 ---
