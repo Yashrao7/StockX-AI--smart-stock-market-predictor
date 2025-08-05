@@ -6,8 +6,7 @@
 
 ## 🎥 Demo Preview
 
-<img src="assets/screenshot-ma.png" width="100%"/>
-<img src="assets/screenshot-indicators.png" width="100%"/>
+MA.pdf<img src="assets/screenshot-indicators.png" width="100%"/>
 <img src="assets/screenshot-prediction.png" width="100%"/>
 
 🖥️ **Full screen recording** available in the repository:  
