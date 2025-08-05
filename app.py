@@ -141,7 +141,7 @@ with tab3:
     predict = model.predict(x)
 
     # ✅ Inverse transform to original price range
-   predict = scaler.inverse_transform(predict)
+    predict = scaler.inverse_transform(predict)
     y = np.array(y).reshape(-1, 1)
     y = scaler.inverse_transform(y)
 
@@ -164,4 +164,3 @@ with tab3:
     plt.xticks(rotation=45)
     plt.tight_layout()
     st.pyplot(fig4)
-
