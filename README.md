@@ -6,7 +6,9 @@
 
 ## 🎥 Demo Preview
 MA--> https://drive.google.com/file/d/1vP5HFN8jBzvP8HYQmBMEwgEOtaTo_ex6/view?usp=sharing
+
 Indicators --> https://drive.google.com/file/d/1rTtuGLmlbDFcfPfpXqcl3rtkVTqvFdjf/view?usp=sharing
+
 Prediction --> https://drive.google.com/file/d/1IoznqKGHkYxytWyPPnJMQRpGvXASTiHp/view?usp=sharing
 
 🖥️ **screen recording** 
