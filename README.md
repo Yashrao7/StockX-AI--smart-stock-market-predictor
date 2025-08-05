@@ -80,6 +80,7 @@ StockX-AI/
 ---
 
 📌 Requirements
+----
 Python ,
 TensorFlow / Keras,
 Streamlit,
@@ -88,11 +89,17 @@ scikit-learn,
 ta,
 matplotlib, pandas, numpy
 
+
 📢 About the Developer
+-----
 Yash Yadav
+
 🎓 Data Science & Machine Learning Enthusiast
+
 📈 Passionate about predictive analytics & financial modeling
+
 🔗 https://www.linkedin.com/in/yash-yadav7/
+
 📫 yashydv9313@gmail.com
 
 ## 🔧 Setup Instructions
