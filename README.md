@@ -53,3 +53,42 @@
 
 ---
 
+## 📂 Project Structure
+StockX-AI/
+│
+├── app.py # Streamlit web app
+├── Stock Predictions Model.keras # Pre-trained LSTM model
+├── Screen Recording ... .mp4 # Walkthrough video
+├── indicators.pdf, ma.pdf, ... # Visuals/screenshots
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+
+
+---
+
+## 📦 Tech Stack
+
+| Layer         | Tools Used                            |
+|---------------|----------------------------------------|
+| **Frontend**  | Streamlit                              |
+| **Backend**   | Python, TensorFlow (Keras), NumPy, Pandas |
+| **Data Source** | Yahoo Finance via `yfinance`         |
+| **Indicators**| `ta` (Technical Analysis Library)      |
+| **Visualization** | Matplotlib                         |
+
+---
+
+## 🔧 Setup Instructions
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/StockX-AI.git
+cd StockX-AI
+
+2. Install dependencies::
+pip install -r requirements.txt
+
+3.Run the app locally:
+streamlit run app.py
+
+
